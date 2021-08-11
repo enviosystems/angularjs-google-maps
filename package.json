@@ -1,11 +1,11 @@
 {
-  "name": "envio-ngmap",
-  "version": "1.18.5",
+  "name": "envio-map",
+  "version": "1.0.0",
   "main": "index.js",
-  "description": "The Simplest AngularJS Google Maps V3 Directive",
+  "description": "AngularJS Google Maps V3 Directive",
   "repository": {
     "type": "git",
-    "url": "https://github.com/allenhwkim/angularjs-google-maps.git"
+    "url": "https://github.com/enviosystems/angularjs-google-maps.git"
   },
   "dependencies": {},
   "engines": {
