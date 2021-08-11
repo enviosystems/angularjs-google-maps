@@ -32,10 +32,10 @@ To get started
 --------------
 For Bower users,
 
-  `$ bower install ngmap`
+  `$ npm install envio-map`
 
 1. Include `ng-map.min.js`:
-   `<script src="/bower_components/ngmap/build/scripts/ng-map.min.js"></script>`
+   `<script src="/node_modules/envio-map/build/scripts/ng-map.min.js"></script>`
 
 2. Include Google Maps:  
     `<script src="http://maps.google.com/maps/api/js"></script>`  
@@ -56,7 +56,7 @@ To get the map instance use the `NgMap.getMap()` function
 
 For npm users,
 
-  `$ npm install ngmap`
+  `$ npm install envio-map`
 
 For Meteor users: https://atmospherejs.com/wormy/angularjs-google-maps
 
